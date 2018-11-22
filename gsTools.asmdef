@@ -1,0 +1,10 @@
+{
+    "name": "gsTools",
+    "references": [
+        "geometry3Sharp", "gsGeometry", "gsShapeModels", "frame3Sharp", "gsCore", "gsSlicerPro"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
